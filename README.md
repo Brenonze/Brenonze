@@ -29,5 +29,3 @@ Outros	Git, Linux, REST APIs, Agile/Scrum
 
 🧪 python-scripts: Scripts Python para automação de tarefas comuns em ambientes DevOps
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark" alt="GitHub Stats" /> </p>
