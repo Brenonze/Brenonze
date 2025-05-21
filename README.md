@@ -1,16 +1,33 @@
-## Hi there 👋
+👨‍💻 Bem-vindo ao meu GitHub!
+Olá! Sou um entusiasta de DevOps com foco em automação, infraestrutura em nuvem (AWS), e desenvolvimento em Python e Java. Este repositório é um espaço dedicado aos meus estudos, projetos e experiências práticas na integração entre desenvolvimento e operações.
 
-<!--
-**Brenonze/Brenonze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sobre mim
+🎯 Foco em práticas DevOps, CI/CD, e Infraestrutura como Código
 
-Here are some ideas to get you started:
+☁️ Estudando e aplicando soluções na Amazon Web Services (AWS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Desenvolvedor com experiência em Python para automações e APIs
+
+☕ Programador Java com interesse em microsserviços e backend escalável
+
+📚 Em constante aprendizado e compartilhando conhecimento por meio de projetos
+
+🧰 Tecnologias & Ferramentas
+Categoria	Ferramentas
+Cloud	AWS (EC2, S3, IAM, Lambda, RDS, CloudFormation)
+DevOps	Docker, GitHub Actions, Jenkins, Terraform, Ansible
+Linguagens	Python, Java, Bash
+Observabilidade	Prometheus, Grafana, ELK Stack
+Outros	Git, Linux, REST APIs, Agile/Scrum
+
+📁 Projetos em destaque
+🔧 iac-aws-terraform: Provisionamento de infraestrutura AWS usando Terraform
+
+🐳 docker-java-api: Aplicação Java com ambiente containerizado via Docker
+
+⚙️ devops-pipeline: Pipeline CI/CD automatizado com GitHub Actions e deploy na AWS
+
+🧪 python-scripts: Scripts Python para automação de tarefas comuns em ambientes DevOps
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark" alt="GitHub Stats" /> </p>
