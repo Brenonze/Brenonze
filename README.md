@@ -1,4 +1,5 @@
 👋 Hello! Welcome to my GitHub
+
 🎯 Currently studying and practicing: DevOps | AWS | Python | Java
 💡 Here I share my projects, labs, and automation scripts.
 
